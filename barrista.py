@@ -28,7 +28,7 @@ print("Hello " + name + ", What would you like from our menu today? Here is what
 order = input()
     #this will await for input from the customer.. and save it as the variable “order” because we asked “what would they like from the menu?” they knew to input their order.
 
-# Declare the Variable “Price” - User is Creating the “Variable by Question, quantity” - Creating the Variable “Total” using math, then Converting it back
+# Declared the Variable “Price” - User is Creating the “Variable by Question, quantity” - Creating the Variable “Total” using math, then Converting it back
 
 if order == "Frappuccino":
     price = 8
